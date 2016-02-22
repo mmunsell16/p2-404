@@ -8,9 +8,9 @@ body {
 }
 
 h1 {
-  font-family: 'Damion', cursive;
+  font-family: 'Montserrat', sans-serif;
   letter-spacing: 2px;
-  font-size: 5em;
+  font-size: 3em;
   color: white;
    margin: 2em auto;
   background: rgba(134, 137, 163, .9);
@@ -24,6 +24,7 @@ p{
   color: white;
   background: rgba(134, 137, 163, .8);
   border-radius: 30%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
