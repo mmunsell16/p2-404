@@ -1,10 +1,11 @@
 body {
   margin: 0 auto;
   text-align: center;
-  background: url(http://theivery.co.uk/wp-content/uploads/2015/03/London_Bird_View.jpg) 100%;
+  background: url(https://upload.wikimedia.org/wikipedia/commons/8/8d/Marilyn_Monroe_photo_pose_Seven_Year_Itch.jpg), 20% ;
+ /* background: url(http://theivery.co.uk/wp-content/uploads/2015/03/London_Bird_View.jpg) 100%;*/
   opacity: .9;
-  height: 90%;
-  width: 90%;
+
+
 }
 
 h1 {
@@ -13,9 +14,9 @@ h1 {
   font-size: 3em;
   color: white;
    margin: 2em auto;
-  background: rgba(134, 137, 163, .9);
+  /*background: rgba(134, 137, 163, .9);
   border-radius: 30%;
-    /*rgba(134, 137, 163, .6);*/
+    rgba(134, 137, 163, .6);*/
 }
 
 p{
