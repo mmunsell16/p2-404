@@ -1,17 +1,19 @@
 body {
-  margin: 6em auto;
+  margin: 0 auto;
   text-align: center;
   background: url(http://theivery.co.uk/wp-content/uploads/2015/03/London_Bird_View.jpg) 100%;
+  opacity: .9;
   height: 90%;
   width: 90%;
 }
 
 h1 {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Damion', cursive;
   letter-spacing: 2px;
   font-size: 5em;
   color: white;
-  background: rgba(134, 137, 163, .4);
+   margin: 2em auto;
+  background: rgba(134, 137, 163, .9);
   border-radius: 30%;
     /*rgba(134, 137, 163, .6);*/
 }
@@ -20,7 +22,7 @@ p{
   display: inline-block;
   padding: 10px;
   color: white;
-  background: rgba(134, 137, 163, .7);
+  background: rgba(134, 137, 163, .8);
   border-radius: 30%;
 }
 
@@ -31,6 +33,20 @@ a {
 
 a:hover {
   color: grey;
+}
+
+.logo {
+  background: white;
+  display: block;
+  padding: 10px;
+  width: 100%
+}
+
+button{
+  color=: white;
+  padding: 5px;
+  border-radius: 10%;
+  margin: 0 1em 5em 1em;
 }
 
 /*************PACE*****************/
